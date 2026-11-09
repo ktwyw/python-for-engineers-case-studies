@@ -1,0 +1,21 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Files the notebooks write when you run them locally
+reactor_log.csv
+reactor_log_clean.csv
+reactor_report.txt
+heart_curve_figures/
+figures_concrete_pumping/
+figures_polymer_melt/
+*.gif

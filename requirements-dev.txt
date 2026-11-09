@@ -1,0 +1,5 @@
+# Packages for the checks in tests/ (in addition to those needed to run the notebooks).
+-r requirements.txt
+nbclient>=0.7
+nbformat>=5.7
+ipykernel>=6

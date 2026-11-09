@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt these notebooks, please cite them as below."
+title: "Python for Engineers: Case Studies from Calculator to Simulation"
+abstract: "A sequence of 23 Jupyter notebooks that teach Python through engineering problems, from Python as a calculator for a water tank to molecular-dynamics simulations and research-based flow models. Written for self-study by first-year engineering students; every line of code is commented."
+authors:
+  - family-names: Wang
+    given-names: Yanwei
+    email: yanwei.wang@nu.edu.kz
+    orcid: "https://orcid.org/0000-0002-8488-9833"
+    affiliation: "Department of Chemical and Materials Engineering, School of Engineering, Nazarbayev University, Astana, Kazakhstan"
+version: "1.0.0"
+date-released: "2026-11-09"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/ktwyw/python-for-engineers-case-studies"
+url: "https://github.com/ktwyw/python-for-engineers-case-studies"
+keywords:
+  - Python
+  - engineering education
+  - Jupyter notebooks
+  - numerical methods
+  - scientific computing
+  - self-study
